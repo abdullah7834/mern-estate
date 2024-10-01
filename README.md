@@ -32,3 +32,4 @@ Home  , Signin  , Signout  , Profile  ,
 
 Now install the packages 
 react-router-dom 
+react-icons (For the react Icons)
